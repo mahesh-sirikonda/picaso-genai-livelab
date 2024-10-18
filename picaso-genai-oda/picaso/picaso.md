@@ -38,5 +38,5 @@ Note: If you already have PeopleSoft Application provisioned then Skip to Task 2
 Please follow below Lab to setup PICASO Digital Assistant (ODA) Chatbot in Peoplesoft Application
 Note: If you already have PICASO Chatbot exists then Skip to Lab 2
 
-- [Setup PICASO Digital Assistant](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3208&p210_wec=&session=9132425471402](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3477&p210_wec=&session=4089959032971)
+- [Setup PICASO Digital Assistant](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3477&p210_wec=&session=4089959032971)
 
