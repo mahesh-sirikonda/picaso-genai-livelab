@@ -31,12 +31,12 @@ This lab assumes you have:
 Please follow below Lab for provisioning PeopleSoft Marketplace Image.
 Note: If you already have PeopleSoft Application provisioned then Skip to Task 2.
 
-- [Provision PeopleSoft Application]([https://livelabs.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3924](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3208&p210_wec=&session=9132425471402))
+- [Provision PeopleSoft Application](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3208&p210_wec=&session=9132425471402)
 
 ## Task 2: Setup PICASO Digital Assistant (ODA)
 
 Please follow below Lab to setup PICASO Digital Assistant (ODA) Chatbot in Peoplesoft Application
 Note: If you already have PICASO Chatbot exists then Skip to Lab 2
 
-- [Setup PICASO Digital Assistant]([[https://livelabs.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3924](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3208&p210_wec=&session=9132425471402](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3477&p210_wec=&session=4089959032971)))
+- [Setup PICASO Digital Assistant](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3208&p210_wec=&session=9132425471402](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3477&p210_wec=&session=4089959032971)
 
