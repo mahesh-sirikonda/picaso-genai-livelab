@@ -197,8 +197,6 @@ From ODA service console homepage -> skill **Dislpay name** -> **Insights** on s
 
 * **Author**
     * **Kaushik Kundu**, Master Principal Cloud Architect, NACIE
-    * **JB Anderson**, Senior Cloud Engineer, NACIE
-* **Contributors**
-    * **Abhinav Jain**, Senior Cloud Engineer, NACIE
+    * **Mahesh Sirikonda**, Senior Cloud Engineer, NACIE
 * **Last Updated By/Date**
-    * **Kaushik Kundu**, Master Principal Cloud Architect, October 2024
+    * **Mahesh Sirikonda**, Senior Cloud Engineer, October 2024
