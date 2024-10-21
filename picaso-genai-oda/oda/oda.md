@@ -1,8 +1,8 @@
-# Setup OCI Digital Assistant (ODA)
+# Import GenAI RAG Skill and configure in PICASO (ODA)
 
 ## Introduction
 
-This lab will take you through the steps needed to provision Oracle Digital Assistant Cloud Service
+This lab will take you through the steps needed to create ODA Gen AI Agent RAG Skill and configure it in PICASO (ODA)
 
 Estimated Time: 30 minutes
 
@@ -16,7 +16,7 @@ In this lab, you will:
 
 * Provision an ODA instance
 * Import and configure a skill to use GenAI Agents
-* Create a Channel to connect the skill to a frontend
+* Add new Skill to PICASO (ODA)
 
 ### Prerequisites
 
@@ -64,6 +64,8 @@ This task will help you ensure that the Dynamic Group and Policy are correctly d
 ## Task 2: Provision Oracle Digital Assistant
 
 This task will help you to create Oracle Digital Assistant under your chosen compartment.
+
+NOTE: If you have already created Oracle Digital Assistant as part of Lab 2 Please skip to next step
 
 1. Locate Digital Assistant under AI Services
 
@@ -150,7 +152,9 @@ This task involves creating REST service which will be used by ODA to connect to
     **NOTE** to start the conversation loop in ODA preview, send this initial message: "Hi"
     ![flow preview](images/flow_preview2.png)
 
-## Task 5: Create Channel to Embed ODA in Visual Builder Application or in any custom Web App
+## Task 5: Create Channel to Embed ODA in PeopleSoft Application or in any custom Web App
+
+NOTE: If you have already created Channel for PICASO in previous Lab Please skip to next step
 
 1. Click on hamburger menu and select Development > Channels, and click on Add Channel
 
