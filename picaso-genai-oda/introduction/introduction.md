@@ -10,7 +10,7 @@ The users can then
 - Get responses of their question (in natural language) from those custom PDF documents.
 By following the workshop users can install this ATOM application in their own tenancy
 
-![User View](images/atom_agent_screenshot.png)
+![User View](images/picaso-genai-architecture.jpg)
 
 Estimated Workshop Time: 2 hours 15 minutes
 
