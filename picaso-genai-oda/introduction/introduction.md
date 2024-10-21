@@ -27,16 +27,15 @@ Users can then ingest and perform RAG on the user’s documents in OCI Object St
 * OCI Functions – Users can optionally enable some automation features using the provided OCI Function code
 * OCI Digital Assistant (ODA) – Users can create ODA instance and import the provided ODA Skill.
 Users can then connect from ODA chatbot to OCI Generative AI Agent Service, leveraging OCI Functions Rest Service.
-* OCI Visual Builder (VB) ATOM Application – User can create OCI Visual Builder (VB) instance and import ATOM VB web application.
-Users can then embed the ODA chatbot in ATOM application. Then the users can get responses from their PDF manuals / documents, using the ATOM application.
+* OCI PeopleSoft Application – User can create OCI PeopleSoft instance using OCI Marketplace image.
+Users can then embed the ODA chatbot (PICASO) in PeopleSoft application. Then the users can get responses from their PDF manuals / documents, using PICASO Chatbot within PeopleSoft Application.
 
 In this workshop, you will learn how to:
 
 * Create Object Storage Buckets, and upload custom PDF documents in those buckets
 * Setup & configure Generative AI Agent Service (Knowledge Bases and Agents)
-* Setup & configure ODA as an LLM powered chatbot
-* Setup & configure Visual Builder as a frontend channel for ODA
-* Test out the features and capabilities of this ATOM application
+* Setup & configure ODA (PICASO) as a LLM pwered chatbot in PeopleSoft Application
+* Test out the features and capabilities of PICASO Chatbot in PeopleSoft
 
 ### Prerequisites
 
@@ -61,8 +60,6 @@ This lab assumes you have:
 
 * **Author**
     * **Kaushik Kundu**, Master Principal Cloud Architect, NACIE
-    * **JB Anderson**, Senior Cloud Engineer, NACIE
-* **Contributors**
-    * **Abhinav Jain**, Senior Cloud Engineer, NACIE
+    * **Mahesh Sirikonda**, Senior Cloud Engineer, NACIE
 * **Last Updated By/Date**
-    * **JB Anderson**, Senior Cloud Engineer, NACIE, October 2024
+    * **Mahesh Sirikonda**, Senior Cloud Engineer, NACIE, October 2024
