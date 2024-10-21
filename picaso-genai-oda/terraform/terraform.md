@@ -224,7 +224,5 @@ This lab assumes you have:
 * **Author**
     * **Kaushik Kundu**, Master Principal Cloud Architect, NACIE
     * **JB Anderson**, Senior Cloud Engineer, NACIE
-* **Contributors**
-    * **Abhinav Jain**, Senior Cloud Engineer, NACIE
 * **Last Updated By/Date**
     * **JB Anderson**, Senior Cloud Engineer, NACIE, October 2024
