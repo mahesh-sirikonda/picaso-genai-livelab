@@ -187,7 +187,26 @@ NOTE: If you have already created Channel for PICASO in previous Lab Please skip
 
     ![flow update citations](images/flow_update_citations2.png)
 
-## Task 7: (optional) View Conversation Analytics
+## Task 7: Add new Skill to PICASO (ODA) DA
+
+From ODA service console homepage -> Click on **Digital Assistant** -> Select PICASO Skill
+
+![flow update citations](images/xxxx2.png)
+
+Click on Add Skill and Select newly imported SKill (genai_skill)
+
+![flow update citations](images/xxxx2.png)
+
+Modify Utterances for new Skill 
+
+![flow update citations](images/xxxx2.png)
+
+Click on Train to train the DA
+
+![flow update citations](images/xxxx2.png)
+
+
+## Task 8: (optional) View Conversation Analytics
 
 From ODA service console homepage -> skill **Dislpay name** -> **Insights** on side nav bar
 
