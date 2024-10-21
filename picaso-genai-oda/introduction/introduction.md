@@ -10,7 +10,7 @@ The users can then
 - Get responses of their question (in natural language) from those custom PDF documents.
 By following the workshop users can install this ATOM application in their own tenancy
 
-![User View](images/picaso-genai-architecture.jpg)
+![User View](images/atom_agent_screenshot.png)
 
 Estimated Workshop Time: 2 hours 15 minutes
 
@@ -18,7 +18,7 @@ Estimated Workshop Time: 2 hours 15 minutes
 
 Objective of this workshop is to set-up the required OCI services to create a full Generative AI Agent solution with RAG capabilities:
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/picaso-genai-architecture.png)
 
 * OCI Object Storage Service – Users can configure OCI Object Storage and create Buckets.
 Users can then upload their own unstructured PDF manuals / documents in those buckets.
