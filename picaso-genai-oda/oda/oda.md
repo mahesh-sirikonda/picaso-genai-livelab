@@ -59,7 +59,7 @@ This task will help you ensure that the Dynamic Group and Policy are correctly d
 
     ![Policy Details](images/policy_details.png)
 
-   $\textcolor{red}{\textsf{Note}}$  If you are using a non-default identity domain - then instead of of just supplying the dynamic group name, you need to provide domain-name/group-name in the policy statements.
+   $\textcolor{red}\large{\textsf{Note:}}$   If you are using a non-default identity domain - then instead of of just supplying the dynamic group name, you need to provide domain-name/group-name in the policy statements.
 
 ## Task 2: Provision Oracle Digital Assistant
 
