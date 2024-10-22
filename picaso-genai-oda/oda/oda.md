@@ -80,7 +80,7 @@ This task will help you to create Oracle Digital Assistant under your chosen com
 
 3. In few minutes the status of recently created Digital Assistant will change from Provisioning to Active
 
-    ![ODA Active](images/oda_active.png)
+    ![ODA Active](images/picaso_oda.png)
 
 ## Task 3: Create REST Services for the OCI Generative AI Agent
 
