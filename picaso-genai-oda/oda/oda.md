@@ -154,26 +154,23 @@ This task involves creating REST service which will be used by ODA to connect to
 
 ## Task 5: Create Channel to Embed ODA in PeopleSoft Application or in any custom Web App
 
-NOTE: If you have already created Channel for PICASO in previous Lab Please skip to next step
+**NOTE:** If you have already created Channel for PICASO in Lab 2 Task 2, Please skip to Task 7
 
-1. Click on hamburger menu and select Development > Channels, and click on Add Channel
+1. Click on hamburger menu and select Development > Channels, to check existing PeopleSoft Channel
 
     ![channel navigation](images/channel_nav2.png)
 
-2.  Enter the Channel Name and DFescription. Select the following option on the form:
+2.  Make sure following options are present in your existing PeopleSoft Channel:
     * Channel Type = Oracle Web
     * Allowed Domain = *
-    * Client Authentication Enabled = Toggle off 
+    * Client Authentication Enabled = Toggle off
+    * route it to PeopleSoft DA (created in Lab 2 Task 2) 
 
-    ![channel configuration](images/channel_config.png)
+    ![channel configuration](images/psft_channel1.png)
 
-3. After channel creation, route it to skill imported in Task 3, and enable the Channel by using the toggle button.
+3. Ensure that the Client Authentication Enabled is disabled. Take note of Channel Id.
 
-    ![enable channel](images/channel_enable2.png)
-
-4. Ensure that the Client Authentication Enabled is disabled. Take note of Channel Id.
-
-    ![channel id](images/channel_id2.png)
+    ![channel id](images/psft_channel2.png)
 
 ## Task 6: (optional) Customize ODA Conversation
 
@@ -191,19 +188,21 @@ NOTE: If you have already created Channel for PICASO in previous Lab Please skip
 
 From ODA service console homepage -> Click on **Digital Assistant** -> Select PICASO Skill
 
-![flow update citations](images/xxxx2.png)
+![flow update citations](images/picaso_da1.png)
 
-Click on Add Skill and Select newly imported SKill (genai_skill)
+![flow update citations](images/picaso_da2.png)
 
-![flow update citations](images/xxxx2.png)
+Click on Add Skill and Select newly imported SKill (GenAIRAGAgentChatbot)
 
-Modify Utterances for new Skill 
+![flow update citations](images/picaso_da3.png)
 
-![flow update citations](images/xxxx2.png)
+Modify Utterances for new Skill (Note: Utterance must be: GenAI Document Search)
+
+![flow update citations](images/picaso_da4.png)
 
 Click on Train to train the DA
 
-![flow update citations](images/xxxx2.png)
+![flow update citations](images/picaso_da5.png)
 
 
 ## Task 8: (optional) View Conversation Analytics
