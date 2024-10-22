@@ -59,13 +59,13 @@ This task will help you ensure that the Dynamic Group and Policy are correctly d
 
     ![Policy Details](images/policy_details.png)
 
-   **NOTE** If you are using a non-default identity domain - then instead of of just supplying the dynamic group name, you need to provide domain-name/group-name in the policy statements.
+   **NOTE:** If you are using a non-default identity domain - then instead of of just supplying the dynamic group name, you need to provide domain-name/group-name in the policy statements.
 
 ## Task 2: Provision Oracle Digital Assistant
 
 This task will help you to create Oracle Digital Assistant under your chosen compartment.
 
-NOTE: If you have already created Oracle Digital Assistant as part of Lab 2 Please skip to next step
+**NOTE:** If you have already created Oracle Digital Assistant (PICASO) as part of Lab 2 Please skip to Task 3
 
 1. Locate Digital Assistant under AI Services
 
