@@ -158,7 +158,7 @@ This task involves creating REST service which will be used by ODA to connect to
 
 1. Click on hamburger menu and select Development > Channels, to check existing PeopleSoft Channel
 
-    ![channel navigation](images/channel_nav2.png)
+    ![channel navigation](images/picaso_newchannel.png)
 
 2.  Make sure following options are present in your existing PeopleSoft Channel:
     * Channel Type = Oracle Web
@@ -190,9 +190,9 @@ From ODA service console homepage -> Click on **Digital Assistant** -> Select PI
 
 ![flow update citations](images/picaso_da1.png)
 
-![flow update citations](images/picaso_da2.png)
-
 Click on Add Skill and Select newly imported SKill (GenAIRAGAgentChatbot)
+
+![flow update citations](images/picaso_da2.png)
 
 ![flow update citations](images/picaso_da3.png)
 
