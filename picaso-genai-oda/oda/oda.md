@@ -99,7 +99,7 @@ This task involves creating REST service which will be used by ODA to connect to
 
 3. Select the ODA Instance and click on Service Console
 
-    ![ODA service console](images/oda_service_console.png)
+    ![ODA service console](images/picaso_oda.png)
 
 4. In the ODA Console, click on hamburger menu. Under Settings, click API Services
 
