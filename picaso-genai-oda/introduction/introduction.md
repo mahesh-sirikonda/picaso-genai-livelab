@@ -8,7 +8,8 @@ The users can then
 
 - Connect to OCI Generative AI Agent Service from OCI Digital Assistant Chatbot PICASO (hosted in PeopleSoft Application)
 - Get responses of their question (in natural language) from those custom PDF documents.
-By following the workshop users can install this ATOM application in their own tenancy
+
+By following the workshop users can install PICASO with Gen AI Agent integration in their own tenancy
 
 ![User View](images/picaso_with_genaiagent.png)
 
