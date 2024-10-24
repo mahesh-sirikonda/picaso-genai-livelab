@@ -172,18 +172,6 @@ This task involves creating REST service which will be used by ODA to connect to
 
     ![channel id](images/psft_channel2.png)
 
-## Task 6: (optional) Customize ODA Conversation
-
-1. Customize predefined agent messages
-    * The oda now passes through the agent's welcome message
-
-2. Customize citation format
-    * In the ODA Service Console, click on the appropriate skill
-    * In the **Flows** tab, click on user.GenAIAgentAPIChatFlow
-    * In the ShowCitation block, update the component tab -> messages
-
-    ![flow update citations](images/flow_update_citations2.png)
-
 ## Task 7: Add new Skill to PICASO (ODA) DA
 
 From ODA service console homepage -> Click on **Digital Assistant** -> Select PICASO Skill
@@ -196,13 +184,25 @@ Click on Add Skill and Select newly imported SKill (GenAIRAGAgentChatbot)
 
 ![flow update citations](images/picaso_da3.png)
 
-Modify Utterances for new Skill (Note: Utterance must be: GenAI Document Search)
+Modify Utterances for new Skill (Note: Utterance must be: PSFT Document Search)
 
-![flow update citations](images/picaso_da4.png)
+![flow update citations](images/picaso_da2.2.png)
 
 Click on Train to train the DA
 
 ![flow update citations](images/picaso_da5.png)
+
+## Task 7: (optional) Customize ODA Conversation
+
+1. Customize predefined agent messages
+    * The oda now passes through the agent's welcome message
+
+2. Customize citation format
+    * In the ODA Service Console, click on the appropriate skill
+    * In the **Flows** tab, click on user.GenAIAgentAPIChatFlow
+    * In the ShowCitation block, update the component tab -> messages
+
+    ![flow update citations](images/flow_update_citations2.png)
 
 
 ## Task 8: (optional) View Conversation Analytics
