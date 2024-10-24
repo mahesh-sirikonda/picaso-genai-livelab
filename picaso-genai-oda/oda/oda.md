@@ -166,7 +166,7 @@ This task involves creating REST service which will be used by ODA to connect to
     * Client Authentication Enabled = Toggle off
     * route it to PeopleSoft DA (created in Lab 2 Task 2) 
 
-    ![channel configuration](images/psft_channel1.png)
+    ![channel configuration](images/psft_channel1.1.png)
 
 3. Ensure that the Client Authentication Enabled is disabled. Take note of Channel Id.
 
