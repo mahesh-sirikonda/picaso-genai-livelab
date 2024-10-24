@@ -192,6 +192,10 @@ Click on Train to train the DA
 
 ![flow update citations](images/picaso_da5.png)
 
+Test new skill using Preview button of PSFT DA
+
+![flow update citations](images/psftda_test.png)
+
 ## Task 7: (optional) Customize ODA Conversation
 
 1. Customize predefined agent messages
